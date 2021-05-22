@@ -1,6 +1,6 @@
 ### Hello! I'm Andrew :smile:
 
-## I'm a Developer, Studant and in the future  I'll be an experienced Game Developer!
+## I'm a Developer, Student and in the future  I'll be an experienced Game Developer!
 - :books: I'm currently studying so much C++!
 - :video_game: I'm looking forward to start learning more of SDL, OpenGL and Unreal Engine
 - :dart: 2021 goals: put into practice concepts of C++ and SDL creating a game
