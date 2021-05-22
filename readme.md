@@ -11,7 +11,9 @@
 
 ### Languages and Tools:
 
-<img width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> <img width="30" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/unreal-engine.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> <img width="30" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="30" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 
 ---
-<img align="left" alt="drewProgram's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=drewProgram&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewProgram)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewProgram)](https://github.com/anuraghazra/github-readme-stats)
