@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Studant and in the future  I'll be an experienced Game Developer!
 - :books: I'm currently studying so much C++!
-- :video_game: I'm looking foward to start learning more of SDL, OpenGL and Unreal Engine
+- :video_game: I'm looking forward to start learning more of SDL, OpenGL and Unreal Engine
 - :dart: 2021 goals: put into practice concepts of C++ and SDL creating a game
 - :sparkles: I have two major long term goals: to create a Game Studio and to start a game development YouTube channel! <img align="center" width="26px" src="https://img.icons8.com/color/48/000000/youtube-tourtials.png"/>
 
