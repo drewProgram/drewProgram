@@ -7,7 +7,7 @@
 - Nice to know: I have two major long term goals: to create a Game Studio and to start a game development YouTube channel!
 
 ### Connect with me:
-[<img align="left" alt="drewProgram | LinkedIn" width="22px" src="assets/linkedin.svg">][https://www.linkedin.com/in/andrewlcf/]
+[https://www.linkedin.com/in/andrewlcf/][<img align="left" alt="drewProgram | LinkedIn" width="22px" src="assets/linkedin.svg">]
 
 <br />
 
