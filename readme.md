@@ -1,8 +1,7 @@
 ### Hello! I'm Andrew :smile:
 
 ## I'm a C++ Developer!
-- :books: I'm currently studying C++ and a lot of Unreal Engine
-- :dart: 2024 goals: create my first game with Unreal Engine
+- :books: I'm currently studying C++, maths and Unreal Engine!
 - :sparkles: I have two major long term goals: to create a Game Studio and to start a game development YouTube channel! <img align="center" width="26px" src="https://img.icons8.com/color/48/000000/youtube-tourtials.png"/>
 
 ### Connect with me:
